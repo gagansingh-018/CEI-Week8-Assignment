@@ -34,9 +34,8 @@ The project was developed as part of the **Week 8 Assignment** on Agent Systems.
 
 ```
 .
-├── week_8_assignment.ipynb
-├── README.md
-└── week_8_quiz.pdf
+├── CEI week_8_assignment
+└── Short Quiz and small agent pipeline project.ipynb
 ```
 
 ---
@@ -219,11 +218,7 @@ Through this project, the following concepts were explored:
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
-
-**Course:** Agentic AI
-
-**Assignment:** Week 8 – Single Agent Pipeline
+**Name:** Gagan Singh
 
 ---
 
